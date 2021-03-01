@@ -1,3 +1,3 @@
 # ArseniyLevashov.github.io
 
-simple but beautiful landing
+simple landing
